@@ -1,0 +1,45 @@
+@charset "utf-8";
+/* CSS Document */
+
+.regtext {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 14px;
+	color: #FFC;
+}
+
+.hightext {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 14px;
+	color: #FFF;
+}
+
+body {
+	background-color:#600;
+}
+
+.link {
+	text-align:center;
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 16px;
+	color: #FFC;
+}
+
+.header {
+	text-align:center;
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 48px;
+	color: #FFF;
+}
+
+#introheader {
+	text-align: center;
+}
+
+#introfooter {
+	text-align: center;
+}
+
+#introcontent {
+	text-align: center;
+	color: #090;
+}
